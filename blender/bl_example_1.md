@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mesh Density Visualizer
+title: Test Project 1
 ---
 
 # Mesh Density Visualizer
@@ -10,7 +10,7 @@ Role: Technical Tools Developer
 
 ## Video
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/watch?v=AFuE1LRxm80">
+src="https://youtu.be/Q3VpxWHUhrI">
 </iframe>
 
 ## Description
