@@ -4,10 +4,11 @@ title: Home
 ---
 
 # Diego Paniagua
-Technical Artist Portfolio
+Gameplay Programmer Portfolio
 
 ## Engines
-- Godot
-- Unity
-- Unreal
-- Blender Tools
+
+- [Godot](./godot/)
+- [Unity](./unity/)
+- [Unreal](./unreal/)
+- [Blender](./blender/)

@@ -1,0 +1,36 @@
+# ------------------------------
+# Jekyll build output
+# ------------------------------
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# ------------------------------
+# Ruby / Bundler
+# ------------------------------
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# ------------------------------
+# Logs
+# ------------------------------
+*.log
+
+# ------------------------------
+# OS generated files
+# ------------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------------
+# VS Code
+# ------------------------------
+.vscode/
+
+
+Gemfile.lock
+
